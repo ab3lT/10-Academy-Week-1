@@ -51,7 +51,6 @@ six==1.17.0
 smart-open==7.0.5
 stack-data==0.6.3
 statsmodels==0.14.4
-ta-lib @ file:///E:/10-Academy/10-Academy-Week-1/ta_lib-0.5.1-cp311-cp311-win_amd64.whl#sha256=0820eddc659b7e9dc80719062d4b90a13201a9341ccdcd863c20aa98e399a41e
 tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.14.3
